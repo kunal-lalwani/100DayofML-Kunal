@@ -3,7 +3,7 @@
 [The #100DaysOfX Official Site](http://100daysofX.com/)
 
 ### Logs Format
-Find the logs format under [logs](Log.md)
+Find the logs format under [logs](Format/Log.md)
 
 ### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
