@@ -7,7 +7,15 @@
 3. [Logs](Format/Logs.md)
 4. [Books](Books)
 
-### Additional Resouces:
+## Daily Logs:
+
+1. [Day 0](\DailyLogs\Day0.md) : 06/01/2020 
+
+[Upcoming](Format\upcoming.md) 
+
+
+## Additional Resources:
+
 1. [Git Basics](gitbasics.md)
 2. [Markdown Basics](markdown_basics.md)
 
